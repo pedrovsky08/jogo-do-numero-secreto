@@ -10,6 +10,10 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div
 
+# Autores
+| [<img loading="lazy" src="https://github.com/pedrovsky08/jogo-do-numero-secreto/blob/main/img/picture.jpg" width=115><br><sub>Pedro Pazini</sub>](https://github.com/pedrovsky08) |
+| :---: |
+
 # Jogo do Número Secreto 🎲
 
 O **Jogo do Número Secreto** é uma aplicação interativa que desafia os usuários a adivinhar um número previamente definido pelo sistema. A cada tentativa, o jogo fornece feedback indicando se o palpite é maior ou menor que o número secreto, orientando o jogador até que ele acerte. O projeto é simples, mas conta com recursos que tornam a experiência acessível e divertida.
